@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Express and SQL**
 
-- 👨‍💻 All of my projects are available at [https://emily-ly-san.github.io/allmyprojects/](https://emily-ly-san.github.io/allmyprojects/)
+- 👨‍💻 All of my projects are available on [my portfolio](https://emily-ly-san.github.io/allmyprojects/)
+  
+- 👩 Know about my experiences on [my CV](https://emily-ly-san.github.io/allmyprojects/cv/emilie-de-duyver.pdf)
 
 - 💬 Ask me about **REACT, HTML, CSS, JS**
 
 - 📫 How to reach me **emilie.deduyver@gmail.com**
-
-- 📄 Know about my experiences [https://emily-ly-san.github.io/allmyprojects/cv/emilie-de-duyver.pdf](https://emily-ly-san.github.io/allmyprojects/cv/emilie-de-duyver.pdf)
 
 - ⚡ Fun fact **I play guitar bass in a rock band !**
 
