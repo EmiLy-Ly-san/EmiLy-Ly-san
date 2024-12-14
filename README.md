@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emilie</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on **DevTube**
+- 🔭 I’m currently working on **DevTube**, a future web development learning video platform.
 
 - 🌱 I’m currently learning **Express and SQL**
 
