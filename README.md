@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DoctoPlan**, a medical appointment application.
 
-- 🌱 I’m currently learning **Apollo GraphQL,PostgreSQL and Docker**
+- 🌱 I’m currently learning **Apollo GraphQL, PostgreSQL and Docker**
 
 - 👨‍💻 All of my projects are available on [my portfolio](https://emily-ly-san.github.io/allmyprojects/)
   
