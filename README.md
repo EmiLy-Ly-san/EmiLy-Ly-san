@@ -9,7 +9,7 @@
   
 - 👩 Know about my experiences on [my CV](https://emily-ly-san.github.io/allmyprojects/cv/emilie-deduyver-cv.pdf)
 
-- 💬 Ask me about **REACT, HTML, CSS, JS, SQL**
+- 💬 Ask me about **REACT, HTML, CSS, JS**
 
 - 📫 How to reach me **emilie.deduyver@gmail.com**
 
