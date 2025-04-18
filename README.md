@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Emilie</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on **DevTube**, a future web development learning video platform.
+- 🔭 I’m currently working on **DoctoPlan**, a a medical appointment application.
 
-- 🌱 I’m currently learning **Express and SQL**
+- 🌱 I’m currently learning **Apollo GraphQL,PostgreSQL and Docker**
 
 - 👨‍💻 All of my projects are available on [my portfolio](https://emily-ly-san.github.io/allmyprojects/)
   
 - 👩 Know about my experiences on [my CV](https://emily-ly-san.github.io/allmyprojects/cv/emilie-deduyver-cv.pdf)
 
-- 💬 Ask me about **REACT, HTML, CSS, JS**
+- 💬 Ask me about **REACT, HTML, CSS, JS, SQL**
 
 - 📫 How to reach me **emilie.deduyver@gmail.com**
 
