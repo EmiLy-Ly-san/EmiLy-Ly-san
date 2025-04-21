@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available on [my portfolio](https://emily-ly-san.github.io/allmyprojects/)
   
-- 👩 Know about my experiences on [cv-emilie-deduyver.pdf](https://github.com/user-attachments/files/19832104/cv-emilie-deduyver.pdf)
+- 👩 Know about my experiences [my CV](https://github.com/user-attachments/files/19832104/cv-emilie-deduyver.pdf)
 
 
 - 💬 Ask me about **REACT, HTML, CSS, JS**
