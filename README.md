@@ -6,8 +6,9 @@
 - 🌱 I’m currently learning **Apollo GraphQL, PostgreSQL and Docker**
 
 - 👨‍💻 All of my projects are available on [my portfolio](https://emily-ly-san.github.io/allmyprojects/)
-  
-- 👩 Know about my experiences [my CV](https://github.com/user-attachments/files/19832104/cv-emilie-deduyver.pdf)
+  [emilie-deduyver-cv-lettre.pdf]
+
+- 👩 Know about my experiences [my CV](https://github.com/user-attachments/files/19832178/emilie-deduyver-cv-lettre.pdf)
 
 
 - 💬 Ask me about **REACT, HTML, CSS, JS**
