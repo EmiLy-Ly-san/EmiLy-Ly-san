@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emilie</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on **DoctoPlan**, a medical appointment application.
+- 🔭 I’m currently working on [DoctoPlan](https://github.com/WildCodeSchool-CDA-FT-2025-03/CDA-Projet-2-Team-2), a medical appointment application.
 
 - 🌱 I’m currently learning **Apollo GraphQL, PostgreSQL and Docker**
 
