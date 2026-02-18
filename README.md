@@ -1,18 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emilie</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h3 align="center">A passionate QA developer from France</h3>
 
-- 🔭 I’m currently working on [DoctoPlan](https://github.com/WildCodeSchool-CDA-FT-2025-03/CDA-Projet-2-Team-2), a medical appointment application.
+- 🚀 Alternante QA Engineer chez Noota  - Passionnée par la qualité logicielle, les tests et l’amélioration continue ✨
+- Always ready to hunt bugs 👾 and deliver the best user experience!
+- 🎓 J'étudie à l'ECV à Nantes - Developement web master in preparation !
 
-- 🌱 I’m currently learning **Apollo GraphQL, PostgreSQL and Docker**
-
-- 👨‍💻 All of my projects are available on [my portfolio](https://emily-ly-san.github.io/allmyprojects/)
-
-- 👩 Know about my experiences [my CV](https://github.com/user-attachments/files/19832178/emilie-deduyver-cv-lettre.pdf)
-
-
-- 💬 Ask me about **REACT, HTML, CSS, JS**
-
-- 📫 How to reach me **emilie.deduyver@gmail.com**
+Curieuse, rigoureuse et motivée, je souhaite développer mes compétences en assurance qualité et contribuer à la réussite de projets innovants tout en évoluant dans un environnement stimulant.
 
 - ⚡ Fun fact **I play guitar bass in a rock band !**
 
@@ -35,7 +28,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emily-ly-san&show_icons=true&locale=en&layout=compact" alt="emily-ly-san" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emily-ly-san&show_icons=true&locale=en" alt="emily-ly-san" /></p>
 
